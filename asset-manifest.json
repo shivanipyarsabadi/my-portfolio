@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.d60da7ec.chunk.css",
+    "main.js": "/my-portfolio/static/js/main.ca442e29.chunk.js",
+    "main.js.map": "/my-portfolio/static/js/main.ca442e29.chunk.js.map",
+    "runtime-main.js": "/my-portfolio/static/js/runtime-main.8b00eace.js",
+    "runtime-main.js.map": "/my-portfolio/static/js/runtime-main.8b00eace.js.map",
+    "static/js/2.480de5ac.chunk.js": "/my-portfolio/static/js/2.480de5ac.chunk.js",
+    "static/js/2.480de5ac.chunk.js.map": "/my-portfolio/static/js/2.480de5ac.chunk.js.map",
+    "index.html": "/my-portfolio/index.html",
+    "precache-manifest.ddbb1328f242d515cf14b6c06f27ede6.js": "/my-portfolio/precache-manifest.ddbb1328f242d515cf14b6c06f27ede6.js",
+    "service-worker.js": "/my-portfolio/service-worker.js",
+    "static/css/main.d60da7ec.chunk.css.map": "/my-portfolio/static/css/main.d60da7ec.chunk.css.map",
+    "static/js/2.480de5ac.chunk.js.LICENSE.txt": "/my-portfolio/static/js/2.480de5ac.chunk.js.LICENSE.txt",
+    "static/media/05.jpg": "/my-portfolio/static/media/05.9d3cf644.jpg",
+    "static/media/Pyarsabadi_Shivani_Resume.pdf": "/my-portfolio/static/media/Pyarsabadi_Shivani_Resume.c77ac424.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b00eace.js",
+    "static/js/2.480de5ac.chunk.js",
+    "static/css/main.d60da7ec.chunk.css",
+    "static/js/main.ca442e29.chunk.js"
+  ]
+}
